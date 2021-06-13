@@ -1,6 +1,6 @@
 ## Styleformer: Transformer based Generative Adversarial Networks with Style Vector
 
-**Transformer based Generative Adversarial Networks with Style Vector:Official PyTorch implementation**<br>
+**Transformer based Generative Adversarial Networks with Style Vector(Official PyTorch implementation)**<br>
 
 <div align="left">
   <img src="docs/lsun_church_generated.png" style="float:left" width="250px">
